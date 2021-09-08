@@ -1,3 +1,18 @@
 h1{
   color: pink;
 }
+
+.nav{
+  background-color: rgb(158, 212, 210);
+}
+
+.nav a{
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+}
+
+.jumbotron-fluid{
+  background-image: url(../images/Designer.png);
+  height: 400px;
+  background-repeat: no-repeat;
+}
